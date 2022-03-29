@@ -1,5 +1,6 @@
 def print_hi(name):
     print(f'Hi, {name}')
+    print("LOL KEK ")
     print("HEllO GIT")
 
 
